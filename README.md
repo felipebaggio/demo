@@ -2,3 +2,4 @@
 
 - Learning Github
 
+- Force an error
